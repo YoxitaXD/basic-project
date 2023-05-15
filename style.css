@@ -1,0 +1,55 @@
+html{
+    font-size: 32px;
+}
+
+body{
+    background-color: #250119;
+
+}
+#titulo{
+    color: rgb(0, 225, 255);
+    width: 75%;
+    padding-left: 20px;
+
+}
+.psFive {
+    background-color:  rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 75% ;
+    padding-left: 20px;
+
+    border-style:double;
+    border-color: rgb(0, 17, 255);
+    border-width: 8px;
+    box-sizing: border-box;
+
+}
+.nintendo{
+    background-color: rgb(36, 36, 36);
+    color: rgb(42, 56, 255);
+    width: 75% ;
+    margin-top: 15px;
+    padding-left: 20px;
+
+ 
+    border-style:double;
+    border-color: rgb(255, 0, 0);
+    border-width: 8px;
+    box-sizing: border-box;
+
+
+
+}
+.xbox{
+    background-color:rgb(20, 31, 0);
+    color: rgb(21, 255, 0);
+    width: 75% ;
+    margin-top: 15px;
+    padding-left: 20px;
+
+    border-style: double;
+    border-color: rgb(0, 255, 0);
+    border-width: 8px;
+    box-sizing: border-box;
+
+}
